@@ -10,6 +10,10 @@ There are 4 homeworks assignments solved by me. All information about them will 
 
 All materials which are not homework assignments are based on the provided notes by Dr. Andrzej Mizera as part of the Machine Learning laboratory.
 
+---
+
+Copyright of the task's description and resources: MIM UW.
+
 
 
 
